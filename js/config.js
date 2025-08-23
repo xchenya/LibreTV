@@ -155,7 +155,7 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
-
+}
 };
 
 // 定义合并方法
